@@ -14,4 +14,5 @@
 
 ## References:
 1.React Native · A framework for building native apps using React. (n.d.). Retrieved from https://facebook.github.io/react-native/.Technology, W. (2018, July 26).
+
 2.React Native vs Real Native Apps. Retrieved from https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f.
